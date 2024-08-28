@@ -1,0 +1,8 @@
+C:\snic\MergeThreeArray\MergeThreeArray\bin\Debug\MergeThreeArray.exe.config
+C:\snic\MergeThreeArray\MergeThreeArray\bin\Debug\MergeThreeArray.exe
+C:\snic\MergeThreeArray\MergeThreeArray\bin\Debug\MergeThreeArray.pdb
+C:\snic\MergeThreeArray\MergeThreeArray\obj\Debug\MergeThreeArray.csproj.AssemblyReference.cache
+C:\snic\MergeThreeArray\MergeThreeArray\obj\Debug\MergeThreeArray.csproj.SuggestedBindingRedirects.cache
+C:\snic\MergeThreeArray\MergeThreeArray\obj\Debug\MergeThreeArray.csproj.CoreCompileInputs.cache
+C:\snic\MergeThreeArray\MergeThreeArray\obj\Debug\MergeThreeArray.exe
+C:\snic\MergeThreeArray\MergeThreeArray\obj\Debug\MergeThreeArray.pdb
